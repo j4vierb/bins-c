@@ -28,5 +28,7 @@ int main()
     printf("answer: %d\n", res);
   else
     printf("the element isn't in the array\n");
+
+  printf("hello world\n");
   return 0;
 }
